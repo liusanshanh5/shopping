@@ -1,0 +1,548 @@
+{
+  "_id": "5bacc97851aef28044df8a35",
+  "status": {
+    "code": 1001,
+    "msg": ""
+  },
+  "result": {
+    "skuInfo": {
+      "title": "2018秋季新款时尚套装宽松BF风学生格子长袖衬衫女上衣+韩版百搭学院风牛仔背带裤女两件套",
+      "skus": [
+        {
+          "stockId": "116fsgas",
+          "xdSkuId": "116fsgas",
+          "price": 9900,
+          "nowprice": 6930,
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180812_2c382ik088fdl06gai4666kfah6b2_640x960.jpg",
+          "currency": "￥",
+          "stock": 994,
+          "style": "只要衬衫",
+          "size": "均码",
+          "styleId": 1,
+          "sizeId": 100
+        },
+        {
+          "stockId": "116fsgau",
+          "xdSkuId": "116fsgau",
+          "price": 9900,
+          "nowprice": 6930,
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180812_2c382ik088fdl06gai4666kfah6b2_640x960.jpg",
+          "currency": "￥",
+          "stock": 0,
+          "style": "只要衬衫",
+          "size": "S",
+          "styleId": 1,
+          "sizeId": 101
+        },
+        {
+          "stockId": "116fsgaw",
+          "xdSkuId": "116fsgaw",
+          "price": 9900,
+          "nowprice": 6930,
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180812_2c382ik088fdl06gai4666kfah6b2_640x960.jpg",
+          "currency": "￥",
+          "stock": 0,
+          "style": "只要衬衫",
+          "size": "M",
+          "styleId": 1,
+          "sizeId": 102
+        },
+        {
+          "stockId": "116fsgay",
+          "xdSkuId": "116fsgay",
+          "price": 9900,
+          "nowprice": 6930,
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180812_2c382ik088fdl06gai4666kfah6b2_640x960.jpg",
+          "currency": "￥",
+          "stock": 0,
+          "style": "只要衬衫",
+          "size": "L",
+          "styleId": 1,
+          "sizeId": 103
+        },
+        {
+          "stockId": "116fsgb0",
+          "xdSkuId": "116fsgb0",
+          "price": 11286,
+          "nowprice": 7900,
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180812_17bcj9g5595j7fcf4ak6ad646fhbd_640x960.jpg",
+          "currency": "￥",
+          "stock": 0,
+          "style": "只要背带裤",
+          "size": "均码",
+          "styleId": 2,
+          "sizeId": 100
+        },
+        {
+          "stockId": "116fsgb2",
+          "xdSkuId": "116fsgb2",
+          "price": 11286,
+          "nowprice": 7900,
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180812_17bcj9g5595j7fcf4ak6ad646fhbd_640x960.jpg",
+          "currency": "￥",
+          "stock": 998,
+          "style": "只要背带裤",
+          "size": "S",
+          "styleId": 2,
+          "sizeId": 101
+        },
+        {
+          "stockId": "116fsgb4",
+          "xdSkuId": "116fsgb4",
+          "price": 11286,
+          "nowprice": 7900,
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180812_17bcj9g5595j7fcf4ak6ad646fhbd_640x960.jpg",
+          "currency": "￥",
+          "stock": 999,
+          "style": "只要背带裤",
+          "size": "M",
+          "styleId": 2,
+          "sizeId": 102
+        },
+        {
+          "stockId": "116fsgb6",
+          "xdSkuId": "116fsgb6",
+          "price": 11286,
+          "nowprice": 7900,
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180812_17bcj9g5595j7fcf4ak6ad646fhbd_640x960.jpg",
+          "currency": "￥",
+          "stock": 998,
+          "style": "只要背带裤",
+          "size": "L",
+          "styleId": 2,
+          "sizeId": 103
+        },
+        {
+          "stockId": "116fsgb8",
+          "xdSkuId": "116fsgb8",
+          "price": 19858,
+          "nowprice": 13900,
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180812_7he79l3dljb17e1567kihkdjhbjjf_640x960.jpg",
+          "currency": "￥",
+          "stock": 0,
+          "style": "衬衫+背带裤 两件套",
+          "size": "均码",
+          "styleId": 3,
+          "sizeId": 100
+        },
+        {
+          "stockId": "116fsgba",
+          "xdSkuId": "116fsgba",
+          "price": 19858,
+          "nowprice": 13900,
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180812_7he79l3dljb17e1567kihkdjhbjjf_640x960.jpg",
+          "currency": "￥",
+          "stock": 998,
+          "style": "衬衫+背带裤 两件套",
+          "size": "S",
+          "styleId": 3,
+          "sizeId": 101
+        },
+        {
+          "stockId": "116fsgbe",
+          "xdSkuId": "116fsgbe",
+          "price": 19858,
+          "nowprice": 13900,
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180812_7he79l3dljb17e1567kihkdjhbjjf_640x960.jpg",
+          "currency": "￥",
+          "stock": 996,
+          "style": "衬衫+背带裤 两件套",
+          "size": "M",
+          "styleId": 3,
+          "sizeId": 102
+        },
+        {
+          "stockId": "116fsgbc",
+          "xdSkuId": "116fsgbc",
+          "price": 19858,
+          "nowprice": 13900,
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180812_7he79l3dljb17e1567kihkdjhbjjf_640x960.jpg",
+          "currency": "￥",
+          "stock": 998,
+          "style": "衬衫+背带裤 两件套",
+          "size": "L",
+          "styleId": 3,
+          "sizeId": 103
+        }
+      ],
+      "props": [
+        {
+          "label": "颜色:",
+          "list": [
+            {
+              "type": "style",
+              "name": "只要衬衫",
+              "isDefault": false,
+              "styleId": 1,
+              "index": 1
+            },
+            {
+              "type": "style",
+              "name": "只要背带裤",
+              "isDefault": false,
+              "styleId": 2,
+              "index": 2
+            },
+            {
+              "type": "style",
+              "name": "衬衫+背带裤 两件套",
+              "isDefault": false,
+              "styleId": 3,
+              "index": 3
+            }
+          ],
+          "isDefault": false
+        },
+        {
+          "label": "尺码:",
+          "list": [
+            {
+              "type": "size",
+              "name": "均码",
+              "isDefault": false,
+              "sizeId": 100,
+              "index": 100
+            },
+            {
+              "type": "size",
+              "name": "S",
+              "isDefault": false,
+              "sizeId": 101,
+              "index": 101
+            },
+            {
+              "type": "size",
+              "name": "M",
+              "isDefault": false,
+              "sizeId": 102,
+              "index": 102
+            },
+            {
+              "type": "size",
+              "name": "L",
+              "isDefault": false,
+              "sizeId": 103,
+              "index": 103
+            }
+          ],
+          "isDefault": false
+        }
+      ],
+      "styleKey": "颜色",
+      "sizeKey": "尺码",
+      "priceRange": "¥69.30~¥139.00",
+      "defaultPrice": "¥69.30~¥139.00",
+      "isAbroad": false,
+      "totalStock": 6981
+    },
+    "itemInfo": {
+      "desc": "2018秋季新款时尚套装宽松BF风学生格子长袖衬衫女上衣+韩版百搭学院风牛仔背带裤女两件套",
+      "userId": "149jt5g",
+      "shopId": "1q3nyo",
+      "title": "2018秋季新款时尚套装宽松BF风学生格子长袖衬衫女上衣+韩版百搭学院风牛仔背带裤女两件套",
+      "discountDesc": "火热促销",
+      "discountBgColor": "#f13e3a",
+      "lowPrice": "99.00",
+      "highPrice": "198.58",
+      "lowNowPrice": "69.30",
+      "highNowPrice": "139.00",
+      "iid": "1m769vs",
+      "isSelf": false,
+      "isFaved": false,
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m769vs&userId=149jt5g&shopId=1q3nyo",
+      "state": 0,
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180812_5ejaf15h8i9182c1765lbf6464d8h_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180812_5739a315de8gaf92g3395125aabh9_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180812_4ab5kf3lgj7hi0i3b030ddga3ffab_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180812_13893ee00j3dkij2239bai095g0g9_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180812_4gg55k25b28f470ka4c2jl65597b8_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180812_19ah8jh3226a0j9g1g94f9l2ed6kf_640x960.jpg"
+      ],
+      "oldPrice": "¥99.00",
+      "price": "¥69.30~¥139.00",
+      "saleType": 0,
+      "tags": "",
+      "inActivity": false,
+      "redPacketsSwitch": false,
+      "cFav": 0,
+      "admin": false,
+      "cids": "#682# #683# #2525# #703#",
+      "cartNum": 0,
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "addCartTips": false,
+      "isGrayUser": false,
+      "isNewComer": false
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    },
+    "detailInfo": {
+      "desc": "2018秋季新款时尚套装宽松BF风学生格子长袖衬衫女上衣+韩版百搭学院风牛仔背带裤女两件套",
+      "detailImage": [
+        {
+          "desc": "",
+          "key": "穿着效果",
+          "anchor": "model_img",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180812_5b4jcb9ihga36j477gjf42l3cbf46_750x429.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_37ldff35ljaiceh6c9a256gh2g365_750x1162.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_2786i0h1abge60dekekj6463fjeal_750x1125.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_17bg16h0db1e2ldc1ace512fe43k1_750x1087.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_4fid1e8i0gbcj38k78851l0j1acig_750x1105.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_03cg57higaeb5d9cljeial5ddhh09_750x973.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_4lk4c4kgd9iibie2e5b8171h4dg7b_750x783.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_270l1ca3hgk69li7f9l0d36bdb4k2_750x1125.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_5a11g30fk4e3i56i8fdf6jg7d8eeb_750x1125.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_606fge4l726ckjf36e1df1df7eff4_750x840.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_2499054k09g3dc66b663cf946kd89_750x835.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_1e822iff0h2194gg3h98c0c076265_750x1077.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_1fj679k1570b80elb0i2hii7jf32h_750x990.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_0cj8fjg3g6j9ehc6354149072ea47_750x990.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "desc": "",
+          "key": "细节做工",
+          "anchor": "detail_img",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180812_591dl64iejc7dk4h2e99g4k4489d4_750x712.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_4c7k335gg9c14lgf395b6ii42gc9e_750x708.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180812_6iibg9bi479e0321g8i78dg4bla6b_750x705.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180812_42h67eka04gjhi6752554al7ek37g_750x668.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180812_0f3hkfbab1157hgeajag5ad0ak468_750x827.jpg"
+          ]
+        },
+        {
+          "desc": "",
+          "key": "包装展示",
+          "anchor": "package_info",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180812_7cjl0f39dkjlaee8i3el2k48gje4b_750x500.jpg"
+          ]
+        },
+        {
+          "desc": "",
+          "key": "服务说明",
+          "anchor": "service_info",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180812_10ehbdcldae7720i3e5jk8g4c2c4f_640x463.jpg"
+          ]
+        }
+      ]
+    },
+    "columns": ["销量 1834", "收藏12人", "默认快递"],
+    "itemParams": {
+      "info": {
+        "set": [
+          {
+            "value": "格子",
+            "key": "图案"
+          },
+          {
+            "value": "普通",
+            "key": "厚薄"
+          },
+          {
+            "value": "广州绚烂季节服饰有限公司",
+            "key": "厂名"
+          },
+          {
+            "value": "只要背带裤,衬衫+背带裤 两件套,只要衬衫",
+            "key": "颜色"
+          },
+          {
+            "value": "常规袖",
+            "key": "袖型"
+          },
+          {
+            "value": "均码,S,L,M",
+            "key": "尺码"
+          },
+          {
+            "value": "常规款（51-65cm）",
+            "key": "衣长"
+          },
+          {
+            "value": "秋季",
+            "key": "季节"
+          },
+          {
+            "value": "广州市南沙区丰泽东路106号X1301-A776号",
+            "key": "厂址"
+          },
+          {
+            "value": "棉",
+            "key": "材质"
+          },
+          {
+            "value": "POLO领",
+            "key": "领型"
+          },
+          {
+            "value": "长袖",
+            "key": "袖长"
+          },
+          {
+            "value": "衣裤套装",
+            "key": "款式"
+          },
+          {
+            "value": "小清新",
+            "key": "风格"
+          },
+          {
+            "value": "韩系",
+            "key": "潮流"
+          }
+        ],
+        "key": "产品参数",
+        "anchor": "product_info"
+      },
+      "rule": {
+        "tables": [
+          [
+            ["尺码", "均码", "S", "M", "L"],
+            ["胸围", "130", "", "", ""],
+            ["袖长", "48", "", "", ""],
+            ["肩宽", "52", "", "", ""],
+            ["衣长", "70", "", "", ""],
+            ["大腿围", "", "56", "58", "60"],
+            ["腰围", "", "86", "90", "94"],
+            ["臀围", "", "92", "98", "104"],
+            ["裤长", "", "96", "97", "98"],
+            ["裤口", "", "32", "34", "36"]
+          ]
+        ],
+        "key": "尺码说明",
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+      }
+    },
+    "shopInfo": {
+      "score": [
+        {
+          "name": "描述相符",
+          "score": 4.69,
+          "isBetter": false
+        },
+        {
+          "name": "价格合理",
+          "score": 5,
+          "isBetter": true
+        },
+        {
+          "name": "质量满意",
+          "score": 4.71,
+          "isBetter": false
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "categories": [
+        {
+          "name": "显瘦裤子",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112251"
+        },
+        {
+          "name": "时尚套装",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112252"
+        },
+        {
+          "name": "牛仔外套",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112253"
+        },
+        {
+          "name": "连衣裙",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112254"
+        },
+        {
+          "name": "T恤",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112256"
+        },
+        {
+          "name": "针织毛衣",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20112257"
+        },
+        {
+          "name": "新品上新",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20166493"
+        },
+        {
+          "name": "衬衫",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20175005"
+        },
+        {
+          "name": "半身裙",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20175006"
+        },
+        {
+          "name": "毛呢外套",
+          "link": "http://s.meilishuo.com/1q3nyo/list/index?categoryId=20255501"
+        }
+      ],
+      "cFans": 30869,
+      "cSells": 193823,
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1q3nyo",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1q3nyo",
+      "isMarked": false,
+      "cGoods": 352,
+      "userId": "149jt5g",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180924_105igedf6a7d4e6fhkagg0f21kgi6_200x200.jpg",
+      "name": "素心家女装",
+      "shopId": "1q3nyo",
+      "type": 1,
+      "level": 3,
+      "nonsupportReasonRefound": false
+    },
+    "rate": {
+      "list": [
+        {
+          "user": {
+            "uid": "",
+            "uname": "weixin_xp53w1h8fn76f",
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": ""
+          },
+          "rateId": "116bn7ea",
+          "content": "质量很好，没有色差不褪色，穿着好看，物流快好评",
+          "created": 1537720784,
+          "isAnonymous": 1,
+          "style": "颜色:只要衬衫 尺码:均码 ",
+          "isEmpty": 0,
+          "level": "",
+          "canExplain": false
+        }
+      ],
+      "cRate": 1
+    },
+    "isLogin": false,
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
+  },
+  "iid": "1m769vs"
+}
